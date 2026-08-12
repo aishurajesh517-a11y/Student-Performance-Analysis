@@ -50,7 +50,7 @@ The dashboard shows that most students achieved passing grades. Computer has the
 
 ## 📷 Dashboard Preview
 
-![Student Performance Dashboard](Screenshots/dashboard.png)
+![Student Performance Dashboard](Screenshots/Dashboard.png)
 
 ## 📁 Project Structure
 
